@@ -4,7 +4,9 @@ There are a lot of TicTacToe games in the IT-world. I also created one of them. 
 
 My project meets almost all requirements which were given by teacher. These are: work with files, unit tests, work with classes and ext.
 
-I can say that this is uniq game, because you can play with computer and computer can also play by itself.
+I can say that this is unique game, because you can play with computer and computer can also play by itself.
+
+Also I used a GUI and I also added 5 Junit tests (hope it will give me some bonus points)
 
 First, when project opens you will choose the way of a game.
 
